@@ -86,3 +86,5 @@ git pull origin master
 
 ```
 
+![image](https://github.com/rpriyaj/Adult-Income-Prediction/assets/77479366/b360f9fd-06b8-48bb-9227-6dcd5abaee70)
+
